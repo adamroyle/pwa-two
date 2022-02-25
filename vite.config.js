@@ -7,10 +7,10 @@ export default defineConfig({
     VitePWA({
       registerType: "autoUpdate",
       manifest: {
-        name: "PWA One",
-        short_name: "PWA One",
-        theme_color: "#add8e6",
-        background_color: "#add8e6",
+        name: "PWA Two",
+        short_name: "PWA Two",
+        theme_color: "#feb6c1",
+        background_color: "#feb6c1",
       },
     }),
   ],
